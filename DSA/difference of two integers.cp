@@ -10,7 +10,9 @@ using namespace std;
 
 int main()
 {
-    //write code here
+   int a=5,b=4;
+    int x=a-b;
+    printf(" value " %d,x);
     
     
     return 0;
